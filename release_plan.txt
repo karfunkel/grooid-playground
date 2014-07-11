@@ -1,0 +1,42 @@
+TODO:
+    - Builder for Android layouts/views and menu's
+    - Value Binding
+    - Builder for canvas and animations
+    - Simplified async implementation
+    - Simplified Services
+    - ResourceManager / Builder to access, define and manage resources without xml
+    - Builder/Creator for manifest ???
+
+
+OPEN:
+    View
+        addChildrenForAccessibility
+        addFocusables
+        addTouchables
+        setAccessibilityDelegate
+        setAnimation
+        setBackground
+        setBackgroundColor
+        setClipBounds
+        setLayerPaint
+        setLayerType
+        setTouchDelegate
+
+    ViewGroup
+        setLayoutAnimation
+        setLayoutAnimationListener
+        setLayoutTransition
+
+    TextView
+        setFilters
+        setHighlightColor
+        setHintTextColor
+        setLinkTextColor
+        setSpannableFactory
+        setTextColor
+        setUndoManager
+
+    android.graphics.drawable.*
+
+
+
